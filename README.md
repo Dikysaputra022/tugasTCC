@@ -1,5 +1,7 @@
 # tugasTCC
 
+## langkah-langkah create image docker dari docker hub
+
 $ docker pull alpine
 
 $ docker run -it alpine /bin/sh
